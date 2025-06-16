@@ -9,5 +9,6 @@ const nextConfig = {
   // 제거하거나 주석 처리하는 것이 좋습니다.
   // assetPrefix: isProd ? '/realtime-metro/' : '',
   // basePath: isProd ? '/realtime-metro' : '',
+}
 
 module.exports = nextConfig;
