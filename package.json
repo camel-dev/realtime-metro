@@ -5,9 +5,7 @@
   "homepage": "https://github.com/camel-dev/realtime-metro/",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "predeploy": "npm run build",
-    "deploy": "type nul > out\\.nojekyll && gh-pages -d out --dotfiles"
+    "build": "next build"
   },
   "keywords": [],
   "author": "",
