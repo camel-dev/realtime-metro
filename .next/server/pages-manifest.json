@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 {
   "/_error": "pages/_error.js",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
 }
+=======
+{}
+>>>>>>> 19e7c56f2809992574ac1a385cf1ed49fa1b3333

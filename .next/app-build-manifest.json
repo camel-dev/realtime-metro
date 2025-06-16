@@ -1,5 +1,6 @@
 {
   "pages": {
+<<<<<<< HEAD
     "/not-found": [
       "static/chunks/webpack-70031c53b9c1086a.js",
       "static/chunks/4bd1b696-af281155fe0788f9.js",
@@ -34,6 +35,22 @@
       "static/chunks/684-de75901a81a8f430.js",
       "static/chunks/main-app-24d11cd08b9db0f6.js",
       "static/chunks/app/eta/page-0686ed50f4db7d47.js"
+=======
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/layout.js"
+    ],
+    "/not-found": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/not-found.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+>>>>>>> 19e7c56f2809992574ac1a385cf1ed49fa1b3333
     ]
   }
 }
