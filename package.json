@@ -2,8 +2,23 @@
   "name": "nextjs14",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://camel-dev.github.io/realtime-metro/",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "prebuild": "rimraf .next",
+    "build": "next build",
+    "preexport": "rimraf out",
+    "export": "next export",
+    "touch": "touch out/.nojekyll",
+    "posttouch": "touch out/_next/.nojekyll",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "eslint --fix ./src",
+    "format": "prettier --check --ignore-path .gitignore .",
+    "format:fix": "prettier --write --ignore-path .gitignore .",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
@@ -11,6 +26,7 @@
   "description": "",
   "dependencies": {
     "csv-parse": "^5.6.0",
+    "gh-pages": "^6.3.0",
     "iconv-lite": "^0.6.3",
     "leaflet": "^1.9.4",
     "next": "^15.3.3",

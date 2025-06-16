@@ -1,4 +1,4 @@
-// File: D:\Study\nextjs14\app\layout.tsx
+// File: D:\Study\realtime-metro\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
