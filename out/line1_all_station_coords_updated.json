@@ -2,501 +2,5857 @@
   {
     "name": "연천",
     "x": 435,
-    "y": 90
+    "y": 90,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "연천",
+    "x": 435,
+    "y": 90,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "연천",
+    "x": 447,
+    "y": 90,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },
+  {
+    "name": "연천",
+    "x": 447,
+    "y": 90,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },
+  {
+    "name": "연천",
+    "x": 447,
+    "y": 90,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+
+
+  
+  {
+    "name": "전곡",
+    "x": 447,
+    "y": 90,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "전곡",
+    "x": 447,
+    "y": 90,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "전곡",
+    "x": 447,
+    "y": 90,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+
+  {
+    "name": "전곡",
+    "x": 460,
+    "y": 90,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "전곡",
     "x": 460,
-    "y": 90
+    "y": 90,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "전곡",
+    "x": 480,
+    "y": 100,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "전곡",
+    "x": 480,
+    "y": 100,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "전곡",
+    "x": 480,
+    "y": 100,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "청산",
+    "x": 480,
+    "y": 100,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "청산",
+    "x": 480,
+    "y": 100,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "청산",
+    "x": 480,
+    "y": 100,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+
+  {
+    "name": "청산",
+    "x": 490,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "청산",
     "x": 490,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "청산",
+    "x": 500,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "청산",
+    "x": 500,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "청산",
+    "x": 500,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "소요산",
+    "x": 500,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "소요산",
+    "x": 500,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "소요산",
+    "x": 500,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "소요산",
+    "x": 510,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "소요산",
     "x": 510,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "소요산",
+    "x": 522,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "소요산",
+    "x": 522,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "소요산",
+    "x": 522,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "동두천",
+    "x": 522,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "동두천",
+    "x": 522,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "동두천",
+    "x": 522,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  
+  {
+    "name": "동두천",
+    "x": 535,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "동두천",
     "x": 535,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "동두천",
+    "x": 547,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동두천",
+    "x": 547,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동두천",
+    "x": 547,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  
+  {
+    "name": "보산",
+    "x": 547,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "보산",
+    "x": 547,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "보산",
+    "x": 547,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "보산",
+    "x": 560,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "보산",
     "x": 560,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "보산",
+    "x": 572,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "보산",
+    "x": 572,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "보산",
+    "x": 572,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "동두천중앙",
+    "x": 572,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "동두천중앙",
+    "x": 572,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "동두천중앙",
+    "x": 572,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  
+  {
+    "name": "동두천중앙",
+    "x": 585,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "동두천중앙",
     "x": 585,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+ 
+  {
+    "name": "동두천중앙",
+    "x": 597,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동두천중앙",
+    "x": 597,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동두천중앙",
+    "x": 597,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "지행",
+    "x": 597,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "지행",
+    "x": 597,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "지행",
+    "x": 597,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "지행",
+    "x": 610,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "지행",
     "x": 610,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "지행",
+    "x": 622,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "지행",
+    "x": 622,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "지행",
+    "x": 622,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "덕정",
+    "x": 622,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "덕정",
+    "x": 622,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "덕정",
+    "x": 622,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "덕정",
+    "x": 635,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "덕정",
     "x": 635,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "덕정",
+    "x": 647,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "덕정",
+    "x": 647,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "덕정",
+    "x": 647,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "덕계",
+    "x": 647,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "덕계",
+    "x": 647,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "덕계",
+    "x": 647,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "덕계",
+    "x": 660,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "덕계",
     "x": 660,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "덕계",
+    "x": 672,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "덕계",
+    "x": 672,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "덕계",
+    "x": 672,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "양주",
+    "x": 672,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "양주",
+    "x": 672,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "양주",
+    "x": 672,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "양주",
+    "x": 684,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "양주",
     "x": 684,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "양주",
+    "x": 696,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "양주",
+    "x": 696,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "양주",
+    "x": 696,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "녹양",
+    "x": 696,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "녹양",
+    "x": 696,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "녹양",
+    "x": 696,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "녹양",
+    "x": 709,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "녹양",
     "x": 709,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+ 
+  {
+    "name": "녹양",
+    "x": 721,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "녹양",
+    "x": 721,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "녹양",
+    "x": 721,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "가능",
+    "x": 721,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "가능",
+    "x": 721,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "가능",
+    "x": 721,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "가능",
+    "x": 734,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "가능",
     "x": 734,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "가능",
+    "x": 746,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "가능",
+    "x": 746,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "가능",
+    "x": 746,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "의정부",
+    "x": 746,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "의정부",
+    "x": 746,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "의정부",
+    "x": 746,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "의정부",
+    "x": 759,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "의정부",
     "x": 759,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "의정부",
+    "x": 769,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "의정부",
+    "x": 769,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "의정부",
+    "x": 769,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "회룡",
+    "x": 769,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "회룡",
+    "x": 769,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "회룡",
+    "x": 769,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "회룡",
+    "x": 779,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "회룡",
     "x": 779,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "회룡",
+    "x": 793,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "회룡",
+    "x": 793,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "회룡",
+    "x": 793,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "망월사",
+    "x": 793,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "망월사",
+    "x": 793,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "망월사",
+    "x": 793,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "망월사",
+    "x": 808,
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "망월사",
     "x": 808,
-    "y": 110
+    "y": 110,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "망월사",
+    "x": 830,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "망월사",
+    "x": 830,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "망월사",
+    "x": 830,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "도봉산",
+    "x": 830,
+    "y": 110,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "도봉산",
+    "x": 830,
+    "y": 110,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "도봉산",
+    "x": 830,
+    "y": 110,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "도봉산",
+    "x": 840,
+    "y": 126,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "도봉산",
     "x": 840,
-    "y": 126
+    "y": 126,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "도봉산",
+    "x": 840,
+    "y": 132,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "도봉산",
+    "x": 840,
+    "y": 132,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "도봉산",
+    "x": 840,
+    "y": 132,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "도봉",
+    "x": 840,
+    "y": 132,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "도봉",
     "x": 840,
-    "y": 139
+    "y": 132,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "도봉",
+    "x": 840,
+    "y": 132,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  
+  {
+    "name": "도봉",
+    "x": 840,
+    "y": 139,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "도봉",
+    "x": 840,
+    "y": 139,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "도봉",
+    "x": 840,
+    "y": 145,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "도봉",
+    "x": 840,
+    "y": 145,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "도봉",
+    "x": 840,
+    "y": 145,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+  
+  {
+    "name": "방학",
+    "x": 840,
+    "y": 145,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "방학",
     "x": 840,
-    "y": 152
+    "y": 145,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "방학",
+    "x": 840,
+    "y": 145,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "방학",
+    "x": 840,
+    "y": 152,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "방학",
+    "x": 840,
+    "y": 152,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "방학",
+    "x": 840,
+    "y": 163,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "방학",
+    "x": 840,
+    "y": 163,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "방학",
+    "x": 840,
+    "y": 163,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "창동",
+    "x": 840,
+    "y": 163,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "창동",
     "x": 840,
-    "y": 174
+    "y": 163,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "창동",
+    "x": 840,
+    "y": 163,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "창동",
+    "x": 840,
+    "y": 174,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "창동",
+    "x": 840,
+    "y": 174,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "창동",
+    "x": 840,
+    "y": 179,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "창동",
+    "x": 840,
+    "y": 179,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "창동",
+    "x": 840,
+    "y": 179,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "녹천",
+    "x": 840,
+    "y": 179,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "녹천",
     "x": 840,
-    "y": 184
+    "y": 179,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "녹천",
+    "x": 840,
+    "y": 179,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "녹천",
+    "x": 840,
+    "y": 184,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "녹천",
+    "x": 840,
+    "y": 184,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "녹천",
+    "x": 840,
+    "y": 189,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "녹천",
+    "x": 840,
+    "y": 189,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "녹천",
+    "x": 840,
+    "y": 189,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "월계",
+    "x": 840,
+    "y": 189,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "월계",
     "x": 840,
-    "y": 195
+    "y": 189,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "월계",
+    "x": 840,
+    "y": 189,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "월계",
+    "x": 840,
+    "y": 195,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "월계",
+    "x": 840,
+    "y": 195,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "월계",
+    "x": 840,
+    "y": 201,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "월계",
+    "x": 840,
+    "y": 201,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "월계",
+    "x": 840,
+    "y": 201,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "광운대",
+    "x": 840,
+    "y": 201,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "광운대",
     "x": 840,
-    "y": 207
+    "y": 201,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "광운대",
+    "x": 840,
+    "y": 201,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "광운대",
+    "x": 840,
+    "y": 207,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "광운대",
+    "x": 840,
+    "y": 207,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "광운대",
+    "x": 840,
+    "y": 212,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "광운대",
+    "x": 840,
+    "y": 212,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "광운대",
+    "x": 840,
+    "y": 212,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "석계",
+    "x": 840,
+    "y": 212,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "석계",
+    "x": 840,
+    "y": 212,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "석계",
+    "x": 840,
+    "y": 212,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "석계",
+    "x": 836,
+    "y": 217,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "석계",
     "x": 836,
-    "y": 217
+    "y": 217,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "석계",
+    "x": 830,
+    "y": 225,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "석계",
+    "x": 830,
+    "y": 225,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "석계",
+    "x": 830,
+    "y": 225,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "신이문",
+    "x": 830,
+    "y": 225,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "신이문",
+    "x": 830,
+    "y": 225,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "신이문",
+    "x": 830,
+    "y": 225,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "신이문",
+    "x": 825,
+    "y": 230,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "신이문",
     "x": 825,
-    "y": 230
+    "y": 230,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "신이문",
+    "x": 820,
+    "y": 235,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "신이문",
+    "x": 820,
+    "y": 235,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "신이문",
+    "x": 820,
+    "y": 235,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "외대앞",
+    "x": 820,
+    "y": 235,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "외대앞",
+    "x": 820,
+    "y": 235,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "외대앞",
+    "x": 820,
+    "y": 235,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "외대앞",
+    "x": 815,
+    "y": 240,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "외대앞",
     "x": 815,
-    "y": 240
+    "y": 240,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+ 
+  {
+    "name": "외대앞",
+    "x": 810,
+    "y": 245,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "외대앞",
+    "x": 810,
+    "y": 245,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "외대앞",
+    "x": 810,
+    "y": 245,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "회기",
+    "x": 810,
+    "y": 245,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "회기",
+    "x": 810,
+    "y": 245,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "회기",
+    "x": 810,
+    "y": 245,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "회기",
+    "x": 804,
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "회기",
     "x": 804,
-    "y": 251
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "회기",
+    "x": 797,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "회기",
+    "x": 797,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "회기",
+    "x": 797,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+
+  {
+    "name": "청량리",
+    "x": 797,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "청량리",
+    "x": 797,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "청량리",
+    "x": 797,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "청량리",
+    "x": 789,
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "청량리",
     "x": 789,
-    "y": 251
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "청량리",
+    "x": 772,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "청량리",
+    "x": 772,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "청량리",
+    "x": 772,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "제기동",
+    "x": 772,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "제기동",
+    "x": 772,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "제기동",
+    "x": 772,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "제기동",
     "x": 754,
-    "y": 251
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "제기동",
+    "x": 754,
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "제기동",
+    "x": 744,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "제기동",
+    "x": 744,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "제기동",
+    "x": 744,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "신설동",
+    "x": 744,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "신설동",
+    "x": 744,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "신설동",
+    "x": 744,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "신설동",
     "x": 734,
-    "y": 251
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "신설동",
+    "x": 734,
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "신설동",
+    "x": 721,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "신설동",
+    "x": 721,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "신설동",
+    "x": 721,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+  
+  {
+    "name": "동묘앞",
+    "x": 721,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "동묘앞",
+    "x": 721,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "동묘앞",
+    "x": 721,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "동묘앞",
     "x": 708,
-    "y": 251
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "동묘앞",
+    "x": 708,
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "동묘앞",
+    "x": 695,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동묘앞",
+    "x": 695,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동묘앞",
+    "x": 695,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "동대문",
+    "x": 695,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "동대문",
+    "x": 695,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "동대문",
+    "x": 695,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "동대문",
     "x": 682,
-    "y": 251
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "동대문",
+    "x": 682,
+    "y": 251,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "동대문",
+    "x": 654,
+    "y": 251,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동대문",
+    "x": 654,
+    "y": 251,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동대문",
+    "x": 654,
+    "y": 251,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+
+  {
+    "name": "종로5가",
+    "x": 654,
+    "y": 252,
+    "trainSttus" : "0"
+  },
+  {
+    "name": "종로5가",
+    "x": 654,
+    "y": 252,
+    "trainSttus" : "3"
+  },
+  {
+    "name": "종로5가",
+    "x": 654,
+    "y": 252,
+    "trainSttus" : "2"
   },
   {
     "name": "종로5가",
     "x": 625,
-    "y": 252
+    "y": 252,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "종로5가",
+    "x": 625,
+    "y": 252,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "종로5가",
+    "x": 596,
+    "y": 252,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "종로5가",
+    "x": 596,
+    "y": 252,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },
+  {
+    "name": "종로5가",
+    "x": 596,
+    "y": 252,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "종로3가",
+    "x": 596,
+    "y": 252,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "종로3가",
+    "x": 596,
+    "y": 252,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "종로3가",
+    "x": 596,
+    "y": 252,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "종로3가",
     "x": 567,
-    "y": 252
+    "y": 252,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "종로3가",
+    "x": 567,
+    "y": 252,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "종로3가",
+    "x": 547,
+    "y": 261,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "종로3가",
+    "x": 547,
+    "y": 261,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "종로3가",
+    "x": 547,
+    "y": 261,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "종각",
+    "x": 547,
+    "y": 261,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "종각",
+    "x": 547,
+    "y": 261,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "종각",
+    "x": 547,
+    "y": 261,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "종각",
+    "x": 533,
+    "y": 269,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "종각",
     "x": 533,
-    "y": 269
+    "y": 269,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "종각",
+    "x": 520,
+    "y": 281,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "종각",
+    "x": 520,
+    "y": 281,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "종각",
+    "x": 520,
+    "y": 281,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  
+  {
+    "name": "시청",
+    "x": 520,
+    "y": 281,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "시청",
+    "x": 520,
+    "y": 281,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "시청",
+    "x": 520,
+    "y": 281,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "시청",
+    "x": 518,
+    "y": 294,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "시청",
     "x": 518,
-    "y": 294
+    "y": 294,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "시청",
+    "x": 518,
+    "y": 310,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "시청",
+    "x": 518,
+    "y": 310,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "시청",
+    "x": 518,
+    "y": 310,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "서울역",
+    "x": 518,
+    "y": 310,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
-    "name": "서울",
+    "name": "서울역",
     "x": 518,
-    "y": 327
+    "y": 310,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "서울역",
+    "x": 518,
+    "y": 310,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "서울역",
+    "x": 518,
+    "y": 327,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "서울역",
+    "x": 518,
+    "y": 327,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "서울역",
+    "x": 518,
+    "y": 341,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "서울역",
+    "x": 518,
+    "y": 341,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "서울역",
+    "x": 518,
+    "y": 341,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },  
+
+
+
+  {
+    "name": "남영",
+    "x": 518,
+    "y": 341,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "남영",
     "x": 518,
-    "y": 355
+    "y": 341,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "남영",
+    "x": 518,
+    "y": 341,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "남영",
+    "x": 518,
+    "y": 355,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "남영",
+    "x": 518,
+    "y": 355,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "남영",
+    "x": 518,
+    "y": 388,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "남영",
+    "x": 518,
+    "y": 388,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "남영",
+    "x": 518,
+    "y": 388,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+
+
+  {
+    "name": "용산",
+    "x": 518,
+    "y": 388,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "용산",
     "x": 518,
-    "y": 421
+    "y": 388,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "용산",
+    "x": 518,
+    "y": 388,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "용산",
+    "x": 518,
+    "y": 421,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "용산",
+    "x": 518,
+    "y": 421,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "용산",
+    "x": 497,
+    "y": 436,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "용산",
+    "x": 497,
+    "y": 436,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "용산",
+    "x": 497,
+    "y": 436,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "노량진",
+    "x": 497,
+    "y": 436,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "노량진",
+    "x": 497,
+    "y": 436,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "노량진",
+    "x": 497,
+    "y": 436,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "노량진",
     "x": 461,
-    "y": 436
+    "y": 436,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "노량진",
+    "x": 461,
+    "y": 436,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "노량진",
+    "x": 427,
+    "y": 436,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "노량진",
+    "x": 427,
+    "y": 436,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "노량진",
+    "x": 427,
+    "y": 436,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "대방",
+    "x": 427,
+    "y": 436,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "대방",
+    "x": 427,
+    "y": 436,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "대방",
+    "x": 427,
+    "y": 436,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "대방",
     "x": 407,
-    "y": 426
+    "y": 426,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "대방",
+    "x": 407,
+    "y": 426,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "대방",
+    "x": 392,
+    "y": 414,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "대방",
+    "x": 392,
+    "y": 414,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "대방",
+    "x": 392,
+    "y": 414,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "신길",
+    "x": 392,
+    "y": 414,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "신길",
+    "x": 392,
+    "y": 414,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "신길",
+    "x": 392,
+    "y": 414,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "신길",
     "x": 377,
-    "y": 402
+    "y": 402,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "신길",
+    "x": 377,
+    "y": 402,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "신길",
+    "x": 370,
+    "y": 408,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "신길",
+    "x": 370,
+    "y": 408,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "신길",
+    "x": 370,
+    "y": 408,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  {
+    "name": "영등포",
+    "x": 370,
+    "y": 408,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "영등포",
+    "x": 370,
+    "y": 408,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "영등포",
+    "x": 370,
+    "y": 408,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  
+  {
+    "name": "영등포",
+    "x": 365,
+    "y": 413,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "영등포",
     "x": 365,
-    "y": 413
+    "y": 413,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "영등포",
+    "x": 358,
+    "y": 421,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "영등포",
+    "x": 358,
+    "y": 421,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "영등포",
+    "x": 358,
+    "y": 421,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+  
+
+  {
+    "name": "신도림",
+    "x": 358,
+    "y": 421,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "신도림",
+    "x": 358,
+    "y": 421,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "신도림",
+    "x": 358,
+    "y": 421,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "신도림",
     "x": 347,
-    "y": 426
+    "y": 426,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
+  {
+    "name": "신도림",
+    "x": 347,
+    "y": 426,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "신도림",
+    "x": 342,
+    "y": 430,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "신도림",
+    "x": 342,
+    "y": 430,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "신도림",
+    "x": 342,
+    "y": 430,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
   {
     "name": "구로",
     "x": 337,
-    "y": 435
+    "y": 435,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "구일",
+    "x": 328,
+    "y": 444,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "구일",
+    "x": 328,
+    "y": 444,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "구일",
+    "x": 328,
+    "y": 444,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "구일",
     "x": 318,
-    "y": 451
+    "y": 451,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "구일",
+    "x": 318,
+    "y": 451,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "구일",
+    "x": 309,
+    "y": 454,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "구일",
+    "x": 309,
+    "y": 454,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "구일",
+    "x": 309,
+    "y": 454,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "개봉",
+    "x": 309,
+    "y": 454,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "개봉",
+    "x": 309,
+    "y": 454,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "개봉",
+    "x": 309,
+    "y": 454,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "개봉",
     "x": 302,
-    "y": 454
+    "y": 454,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "개봉",
+    "x": 302,
+    "y": 454,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "개봉",
+    "x": 293,
+    "y": 454,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "개봉",
+    "x": 293,
+    "y": 454,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "개봉",
+    "x": 293,
+    "y": 454,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "오류동",
+    "x": 293,
+    "y": 454,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "오류동",
+    "x": 293,
+    "y": 454,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "오류동",
+    "x": 293,
+    "y": 454,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "오류동",
     "x": 283,
-    "y": 454
+    "y": 454,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "오류동",
+    "x": 283,
+    "y": 454,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "오류동",
+    "x": 272,
+    "y": 454,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "오류동",
+    "x": 272,
+    "y": 454,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "오류동",
+    "x": 272,
+    "y": 454,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "온수",
+    "x": 272,
+    "y": 454,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "온수",
+    "x": 272,
+    "y": 454,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "온수",
+    "x": 272,
+    "y": 454,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "온수",
     "x": 262,
-    "y": 458
+    "y": 458,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "온수",
+    "x": 262,
+    "y": 458,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "온수",
+    "x": 256,
+    "y": 463,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "온수",
+    "x": 256,
+    "y": 463,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "온수",
+    "x": 256,
+    "y": 463,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "역곡",
+    "x": 256,
+    "y": 463,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "역곡",
+    "x": 256,
+    "y": 463,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "역곡",
+    "x": 256,
+    "y": 463,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "역곡",
     "x": 251,
-    "y": 467
+    "y": 467,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "역곡",
+    "x": 251,
+    "y": 467,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },  
+  {
+    "name": "역곡",
+    "x": 244,
+    "y": 473,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "역곡",
+    "x": 244,
+    "y": 473,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "역곡",
+    "x": 244,
+    "y": 473,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  
+  {
+    "name": "소사",
+    "x": 244,
+    "y": 473,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "소사",
+    "x": 244,
+    "y": 473,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "소사",
+    "x": 244,
+    "y": 473,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "소사",
     "x": 238,
-    "y": 479
+    "y": 479,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "소사",
+    "x": 238,
+    "y": 479,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "소사",
+    "x": 222,
+    "y": 492,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "소사",
+    "x": 222,
+    "y": 492,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "소사",
+    "x": 222,
+    "y": 492,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "부천",
+    "x": 222,
+    "y": 492,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "부천",
+    "x": 222,
+    "y": 492,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "부천",
+    "x": 222,
+    "y": 492,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "부천",
     "x": 206,
-    "y": 502
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "부천",
+    "x": 206,
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "부천",
+    "x": 194,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "부천",
+    "x": 194,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "부천",
+    "x": 194,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "중동",
+    "x": 194,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "중동",
+    "x": 194,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "중동",
+    "x": 194,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "중동",
     "x": 181,
-    "y": 502
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "중동",
+    "x": 181,
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "중동",
+    "x": 170,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "중동",
+    "x": 170,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "중동",
+    "x": 170,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+  
+  {
+    "name": "송내",
+    "x": 170,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "송내",
+    "x": 170,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "송내",
+    "x": 170,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "송내",
     "x": 160,
-    "y": 502
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "송내",
+    "x": 160,
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "송내",
+    "x": 149,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "송내",
+    "x": 149,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "송내",
+    "x": 149,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "부개",
+    "x": 149,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "부개",
+    "x": 149,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "부개",
+    "x": 149,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "부개",
     "x": 138,
-    "y": 502
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "부개",
+    "x": 138,
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "부개",
+    "x": 130,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "부개",
+    "x": 130,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "부개",
+    "x": 130,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "부평",
+    "x": 130,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "부평",
+    "x": 130,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "부평",
+    "x": 130,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "부평",
     "x": 122,
-    "y": 502
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "부평",
+    "x": 122,
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "부평",
+    "x": 110,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "부평",
+    "x": 110,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "부평",
+    "x": 110,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "백운",
+    "x": 110,
+    "y": 502,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "백운",
+    "x": 110,
+    "y": 502,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "백운",
+    "x": 110,
+    "y": 502,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "백운",
     "x": 98,
-    "y": 502
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "백운",
+    "x": 98,
+    "y": 502,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "백운",
+    "x": 83,
+    "y": 505,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "백운",
+    "x": 83,
+    "y": 505,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "백운",
+    "x": 83,
+    "y": 505,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "동암",
+    "x": 83,
+    "y": 505,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "동암",
+    "x": 83,
+    "y": 505,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "동암",
+    "x": 83,
+    "y": 505,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "동암",
     "x": 82,
-    "y": 518
+    "y": 518,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "동암",
+    "x": 82,
+    "y": 518,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "동암",
+    "x": 82,
+    "y": 524,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동암",
+    "x": 82,
+    "y": 524,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동암",
+    "x": 82,
+    "y": 524,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "간석",
+    "x": 82,
+    "y": 524,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "간석",
     "x": 82,
-    "y": 531
+    "y": 524,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "간석",
+    "x": 82,
+    "y": 524,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  {
+    "name": "간석",
+    "x": 82,
+    "y": 531,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "간석",
+    "x": 82,
+    "y": 531,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "간석",
+    "x": 82,
+    "y": 538,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "간석",
+    "x": 82,
+    "y": 538,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "간석",
+    "x": 82,
+    "y": 538,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "주안",
+    "x": 82,
+    "y": 538,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "주안",
     "x": 82,
-    "y": 545
+    "y": 538,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "주안",
+    "x": 82,
+    "y": 538,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  {
+    "name": "주안",
+    "x": 82,
+    "y": 545,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "주안",
+    "x": 82,
+    "y": 545,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "주안",
+    "x": 82,
+    "y": 552,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "주안",
+    "x": 82,
+    "y": 552,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "주안",
+    "x": 82,
+    "y": 552,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "도화",
+    "x": 82,
+    "y": 552,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "도화",
     "x": 82,
-    "y": 559
+    "y": 552,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "도화",
+    "x": 82,
+    "y": 552,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  {
+    "name": "도화",
+    "x": 82,
+    "y": 559,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "도화",
+    "x": 82,
+    "y": 559,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "도화",
+    "x": 83,
+    "y": 583,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "도화",
+    "x": 83,
+    "y": 583,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "도화",
+    "x": 83,
+    "y": 583,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "제물포",
+    "x": 83,
+    "y": 583,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "제물포",
+    "x": 83,
+    "y": 583,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "제물포",
+    "x": 83,
+    "y": 583,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "제물포",
     "x": 107,
-    "y": 584
+    "y": 584,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "제물포",
+    "x": 107,
+    "y": 584,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "제물포",
+    "x": 122,
+    "y": 584,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "제물포",
+    "x": 122,
+    "y": 584,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "제물포",
+    "x": 122,
+    "y": 584,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  
+  {
+    "name": "도원",
+    "x": 122,
+    "y": 584,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "도원",
+    "x": 122,
+    "y": 584,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "도원",
+    "x": 122,
+    "y": 584,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "도원",
     "x": 137,
-    "y": 584
+    "y": 584,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "도원",
+    "x": 137,
+    "y": 584,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "도원",
+    "x": 151,
+    "y": 584,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "도원",
+    "x": 151,
+    "y": 584,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "도원",
+    "x": 151,
+    "y": 584,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  
+  {
+    "name": "동인천",
+    "x": 151,
+    "y": 584,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "동인천",
+    "x": 151,
+    "y": 584,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "동인천",
+    "x": 151,
+    "y": 584,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "동인천",
     "x": 164,
-    "y": 584
+    "y": 584,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "동인천",
+    "x": 164,
+    "y": 584,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "동인천",
+    "x": 183,
+    "y": 584,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동인천",
+    "x": 183,
+    "y": 584,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "동인천",
+    "x": 183,
+    "y": 584,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "인천",
+    "x": 183,
+    "y": 584,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "인천",
+    "x": 183,
+    "y": 584,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "인천",
+    "x": 183,
+    "y": 584,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "인천",
     "x": 202,
-    "y": 584
+    "y": 584,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "인천",
+    "x": 202,
+    "y": 584,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "가산디지털단지",
+    "x": 338,
+    "y": 460,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },  
+  {
+    "name": "가산디지털단지",
+    "x": 338,
+    "y": 460,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },  
+  {
+    "name": "가산디지털단지",
+    "x": 338,
+    "y": 460,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "가산디지털단지",
     "x": 338,
-    "y": 481
+    "y": 481,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "가산디지털단지",
+    "x": 338,
+    "y": 481,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "가산디지털단지",
+    "x": 338,
+    "y": 495,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "가산디지털단지",
+    "x": 338,
+    "y": 495,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },
+  {
+    "name": "가산디지털단지",
+    "x": 338,
+    "y": 495,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "독산",
+    "x": 338,
+    "y": 495,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "독산",
+    "x": 338,
+    "y": 495,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "독산",
+    "x": 338,
+    "y": 495,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  
+  {
+    "name": "독산",
+    "x": 338,
+    "y": 509,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "독산",
+    "x": 338,
+    "y": 509,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "독산",
+    "x": 338,
+    "y": 518,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "독산",
+    "x": 338,
+    "y": 518,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "독산",
+    "x": 338,
+    "y": 518,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  
+  {
+    "name": "금천구청",
+    "x": 338,
+    "y": 518,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "금천구청",
-    "x": 339,
-    "y": 526
+    "x": 338,
+    "y": 518,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "금천구청",
+    "x": 338,
+    "y": 518,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  {
+    "name": "금천구청",
+    "x": 338,
+    "y": 526,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "금천구청",
+    "x": 338,
+    "y": 526,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },  
+  {
+    "name": "금천구청",
+    "x": 360,
+    "y": 528,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "금천구청",
+    "x": 360,
+    "y": 528,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "금천구청",
+    "x": 360,
+    "y": 528,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+
+
+  {
+    "name": "석수",
+    "x": 360,
+    "y": 528,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "석수",
+    "x": 360,
+    "y": 528,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "석수",
+    "x": 360,
+    "y": 528,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "석수",
     "x": 379,
-    "y": 528
+    "y": 528,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "석수",
+    "x": 379,
+    "y": 528,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "석수",
+    "x": 407,
+    "y": 528,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "석수",
+    "x": 407,
+    "y": 528,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "석수",
+    "x": 407,
+    "y": 528,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+  
+
+  {
+    "name": "관악",
+    "x": 407,
+    "y": 528,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "관악",
+    "x": 407,
+    "y": 528,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "관악",
+    "x": 407,
+    "y": 528,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "관악",
     "x": 415,
-    "y": 547
+    "y": 547,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "관악",
+    "x": 415,
+    "y": 547,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "관악",
+    "x": 415,
+    "y": 560,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "관악",
+    "x": 415,
+    "y": 560,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "관악",
+    "x": 415,
+    "y": 560,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "안양",
+    "x": 415,
+    "y": 560,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "안양",
     "x": 415,
-    "y": 572
+    "y": 560,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "안양",
+    "x": 415,
+    "y": 560,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  {
+    "name": "안양",
+    "x": 415,
+    "y": 572,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "안양",
+    "x": 415,
+    "y": 572,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "안양",
+    "x": 415,
+    "y": 582,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "안양",
+    "x": 415,
+    "y": 582,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "안양",
+    "x": 415,
+    "y": 582,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "명학",
+    "x": 415,
+    "y": 582,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "명학",
     "x": 415,
-    "y": 592
+    "y": 582,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "명학",
+    "x": 415,
+    "y": 582,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  {
+    "name": "명학",
+    "x": 415,
+    "y": 592,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "명학",
+    "x": 415,
+    "y": 592,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "명학",
+    "x": 415,
+    "y": 609,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "명학",
+    "x": 415,
+    "y": 609,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },
+  {
+    "name": "명학",
+    "x": 415,
+    "y": 609,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "금정",
+    "x": 415,
+    "y": 609,
+    "trainSttus" : "0",
+    "updnLine": "1"
   },
   {
     "name": "금정",
     "x": 415,
-    "y": 626
+    "y": 609,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "금정",
+    "x": 415,
+    "y": 609,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+  {
+    "name": "금정",
+    "x": 415,
+    "y": 626,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "금정",
+    "x": 415,
+    "y": 626,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "금정",
+    "x": 415,
+    "y": 643,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "금정",
+    "x": 415,
+    "y": 643,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "금정",
+    "x": 415,
+    "y": 643,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+  
+
+  {
+    "name": "군포",
+    "x": 415,
+    "y": 643,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "군포",
+    "x": 415,
+    "y": 643,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "군포",
+    "x": 415,
+    "y": 643,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "군포",
     "x": 422,
-    "y": 650
+    "y": 650,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "군포",
+    "x": 422,
+    "y": 650,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "군포",
+    "x": 429,
+    "y": 657,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "군포",
+    "x": 429,
+    "y": 657,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "군포",
+    "x": 429,
+    "y": 657,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "당정",
+    "x": 429,
+    "y": 657,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "당정",
+    "x": 429,
+    "y": 657,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "당정",
+    "x": 429,
+    "y": 657,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "당정",
     "x": 437,
-    "y": 662
+    "y": 662,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "당정",
+    "x": 437,
+    "y": 662,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "당정",
+    "x": 448,
+    "y": 671,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "당정",
+    "x": 448,
+    "y": 671,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "당정",
+    "x": 448,
+    "y": 671,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "의왕",
+    "x": 448,
+    "y": 671,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "의왕",
+    "x": 448,
+    "y": 671,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "의왕",
+    "x": 448,
+    "y": 671,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "의왕",
     "x": 461,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "의왕",
+    "x": 461,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "의왕",
+    "x": 473,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "의왕",
+    "x": 473,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "의왕",
+    "x": 473,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+
+
+  {
+    "name": "성균관대",
+    "x": 473,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "성균관대",
+    "x": 473,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "성균관대",
+    "x": 473,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "성균관대",
     "x": 486,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "성균관대",
+    "x": 486,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "성균관대",
+    "x": 498,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "성균관대",
+    "x": 498,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "성균관대",
+    "x": 498,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "화서",
+    "x": 498,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "화서",
+    "x": 498,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "화서",
+    "x": 498,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "화서",
     "x": 510,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "화서",
+    "x": 510,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "화서",
+    "x": 520,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "화서",
+    "x": 520,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "화서",
+    "x": 520,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "수원",
+    "x": 520,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "수원",
+    "x": 520,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "수원",
+    "x": 520,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "수원",
     "x": 530,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "수원",
+    "x": 530,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "수원",
+    "x": 543,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "수원",
+    "x": 543,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "수원",
+    "x": 543,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "세류",
+    "x": 543,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "세류",
+    "x": 543,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "세류",
+    "x": 543,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "세류",
     "x": 557,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "세류",
+    "x": 557,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "세류",
+    "x": 570,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "세류",
+    "x": 570,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "세류",
+    "x": 570,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "병점",
+    "x": 570,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "병점",
+    "x": 570,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "병점",
+    "x": 570,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "병점",
     "x": 583,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
+  {
+    "name": "병점",
+    "x": 583,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "병점",
+    "x": 583,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "병점",
+    "x": 583,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "병점",
+    "x": 583,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
   {
     "name": "서동탄",
     "x": 583,
-    "y": 656
+    "y": 656,
+    "trainSttus" : "1"  
+  },
+
+
+
+  {
+    "name": "세마",
+    "x": 583,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "세마",
+    "x": 583,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "세마",
+    "x": 583,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "세마",
     "x": 606,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "세마",
+    "x": 606,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "세마",
+    "x": 618,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "세마",
+    "x": 618,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "세마",
+    "x": 618,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "오산대",
+    "x": 618,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "오산대",
+    "x": 618,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "오산대",
+    "x": 618,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "오산대",
+    "x": 631,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "오산대",
     "x": 631,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "오산대",
+    "x": 643,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "오산대",
+    "x": 643,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "오산대",
+    "x": 643,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+
+
+  {
+    "name": "오산",
+    "x": 643,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "오산",
+    "x": 643,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "오산",
+    "x": 643,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "오산",
     "x": 655,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "오산",
+    "x": 655,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "오산",
+    "x": 666,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "오산",
+    "x": 666,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "오산",
+    "x": 666,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "진위",
+    "x": 666,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "진위",
+    "x": 666,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "진위",
+    "x": 666,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "진위",
     "x": 678,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "진위",
+    "x": 678,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "진위",
+    "x": 690,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "진위",
+    "x": 690,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "진위",
+    "x": 690,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+
+
+  {
+    "name": "송탄",
+    "x": 690,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "송탄",
+    "x": 690,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "송탄",
+    "x": 690,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "송탄",
     "x": 702,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "송탄",
+    "x": 702,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "송탄",
+    "x": 714,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "송탄",
+    "x": 714,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "송탄",
+    "x": 714,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+  
+
+
+  {
+    "name": "서정리",
+    "x": 714,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "서정리",
+    "x": 714,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "서정리",
+    "x": 714,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "서정리",
+    "x": 727,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "서정리",
     "x": 727,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "서정리",
+    "x": 739,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "서정리",
+    "x": 739,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "서정리",
+    "x": 739,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "평택지제",
+    "x": 739,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "평택지제",
+    "x": 739,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "평택지제",
+    "x": 739,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "평택지제",
     "x": 751,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "평택지제",
+    "x": 751,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "평택지제",
+    "x": 764,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "평택지제",
+    "x": 764,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "평택지제",
+    "x": 764,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "평택",
+    "x": 764,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "평택",
+    "x": 764,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "평택",
+    "x": 764,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "평택",
     "x": 777,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "평택",
+    "x": 777,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "평택",
+    "x": 787,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "평택",
+    "x": 787,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "평택",
+    "x": 787,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "성환",
+    "x": 787,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "성환",
+    "x": 787,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "성환",
+    "x": 787,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "성환",
     "x": 798,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "성환",
+    "x": 798,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "성환",
+    "x": 810,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "성환",
+    "x": 810,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "성환",
+    "x": 810,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "직산",
+    "x": 810,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "직산",
+    "x": 810,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "직산",
+    "x": 810,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "직산",
+    "x": 822,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "직산",
     "x": 822,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  
+  {
+    "name": "직산",
+    "x": 834,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "직산",
+    "x": 834,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "직산",
+    "x": 834,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+  
+  {
+    "name": "두정",
+    "x": 834,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "두정",
+    "x": 834,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "두정",
+    "x": 834,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "두정",
     "x": 845,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "두정",
+    "x": 845,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "두정",
+    "x": 857,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "두정",
+    "x": 857,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "두정",
+    "x": 857,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "천안",
+    "x": 857,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "천안",
+    "x": 857,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "천안",
+    "x": 857,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "천안",
     "x": 869,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "천안",
+    "x": 869,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "천안",
+    "x": 881,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "천안",
+    "x": 881,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "천안",
+    "x": 881,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "봉명",
+    "x": 881,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "봉명",
+    "x": 881,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "봉명",
+    "x": 881,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
+  },
+
+  {
+    "name": "봉명",
+    "x": 893,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
   },
   {
     "name": "봉명",
     "x": 893,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+
+  {
+    "name": "봉명",
+    "x": 905,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "봉명",
+    "x": 905,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "봉명",
+    "x": 905,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "쌍용",
+    "x": 905,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "쌍용",
+    "x": 905,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "쌍용",
+    "x": 905,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "쌍용",
     "x": 918,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "쌍용",
+    "x": 918,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "쌍용",
+    "x": 931,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "쌍용",
+    "x": 931,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "쌍용",
+    "x": 931,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "아산",
+    "x": 931,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "아산",
+    "x": 931,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "아산",
+    "x": 931,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "아산",
     "x": 944,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "아산",
+    "x": 944,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "아산",
+    "x": 955,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "아산",
+    "x": 955,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "아산",
+    "x": 955,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "탕정",
+    "x": 955,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "탕정",
+    "x": 955,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "탕정",
+    "x": 955,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "탕정",
     "x": 966,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "탕정",
+    "x": 966,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "탕정",
+    "x": 977,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "탕정",
+    "x": 977,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "탕정",
+    "x": 977,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "배방",
+    "x": 977,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "배방",
+    "x": 977,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "배방",
+    "x": 977,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "배방",
     "x": 988,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "배방",
+    "x": 988,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "배방",
+    "x": 1002,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "배방",
+    "x": 1002,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "배방",
+    "x": 1002,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "온양온천",
+    "x": 1002,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "온양온천",
+    "x": 1002,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "온양온천",
+    "x": 1002,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "온양온천",
     "x": 1016,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "온양온천",
+    "x": 1016,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
+  },
+  {
+    "name": "온양온천",
+    "x": 1031,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "0"
+  },  
+  {
+    "name": "온양온천",
+    "x": 1031,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "0"
+  },  
+  {
+    "name": "온양온천",
+    "x": 1031,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "1"
+  },
+
+
+
+  {
+    "name": "신창",
+    "x": 1031,
+    "y": 674,
+    "trainSttus" : "0",
+    "updnLine": "1"
+  },
+  {
+    "name": "신창",
+    "x": 1031,
+    "y": 674,
+    "trainSttus" : "3",
+    "updnLine": "1"
+  },
+  {
+    "name": "신창",
+    "x": 1031,
+    "y": 674,
+    "trainSttus" : "2",
+    "updnLine": "0"
   },
   {
     "name": "신창",
     "x": 1046,
-    "y": 674
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "0"
+  },
+  {
+    "name": "신창",
+    "x": 1046,
+    "y": 674,
+    "trainSttus" : "1",
+    "updnLine": "1"
   }
 ]
