@@ -1,6 +1,6 @@
 import React from "react";
 
-const lineColors = {
+const lineColors: { [key: string]: string } = {
   "1": "#0052A4",
   "2": "#009D3E",
   "3": "#EF7C1C",
@@ -13,11 +13,17 @@ const lineColors = {
 
 const subwayLines = Object.keys(lineColors).map(line => ({
   name: `${line}호선`,
-  color: lineColors[line],
+  color: lineColors[line] ,
   short: line
 }));
 
-export default function Sidebar({ open, onClose, onSelectLine }) {
+interface SidebarProps {
+  open: boolean;
+  onClose: () => void;
+  onSelectLine: (line: string) => void;
+}
+
+export default function Sidebar({ open, onClose, onSelectLine }: SidebarProps) {
   if (!open) return null;
   return (
     <aside

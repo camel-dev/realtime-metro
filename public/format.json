@@ -1,0 +1,62 @@
+[
+  {
+    "name": "전곡",
+    "x": 447,
+    "y": 90,
+    "trainSttus" : 0,
+    "updnLine": 1
+  },
+  {
+    "name": "전곡",
+    "x": 447,
+    "y": 90,
+    "trainSttus" : 3,
+    "updnLine": 1
+  },
+  {
+    "name": "전곡",
+    "x": 447,
+    "y": 90,
+    "trainSttus" : 2,
+    "updnLine": 0
+  },
+
+
+  {
+    "name": "전곡",
+    "x": 460,
+    "y": 90,
+    "trainSttus" : 1,
+    "updnLine": 0
+  },
+  {
+    "name": "전곡",
+    "x": 460,
+    "y": 90,
+    "trainSttus" : 1,
+    "updnLine": 1
+  },
+
+
+  {
+    "name": "전곡",
+    "x": 475,
+    "y": 90,
+    "trainSttus" : 0,
+    "updnLine": 0
+  },  
+  {
+    "name": "전곡",
+    "x": 475,
+    "y": 90,
+    "trainSttus" : 3,
+    "updnLine": 0
+  },  
+  {
+    "name": "전곡",
+    "x": 475,
+    "y": 90,
+    "trainSttus" : 2,
+    "updnLine": 1
+  }
+]

@@ -1,14 +1,14 @@
 import React, { useRef, useState, useEffect } from "react";
 
 const lineImages: Record<string, string> = {
-  "1": "/img/line1_v4.png",
-  "2": "/img/line2_v4.png",
-  "3": "/img/line3_v4.png",
-  "4": "/img/line4_v4.png",
-  "5": "/img/line5_v4.png",
-  "6": "/img/line6_v4.png",
-  "7": "/img/line7_v4.png",
-  "8": "/img/line8_v4.png"
+  "1": "/realtime-metro/img/line1_v4.png",
+  "2": "/realtime-metro/img/line2_v4.png",
+  "3": "/realtime-metro/img/line3_v4.png",
+  "4": "/realtime-metro/img/line4_v4.png",
+  "5": "/realtime-metro/img/line5_v4.png",
+  "6": "/realtime-metro/img/line6_v4.png",
+  "7": "/realtime-metro/img/line7_v4.png",
+  "8": "/realtime-metro/img/line8_v4.png"
 };
 
 // 호선별 대표 색상 매핑
@@ -23,7 +23,11 @@ const lineColors: Record<string, string> = {
   "8": "#E6186C", // 8호선(분홍)
 };
 
-export default function SubwayMap({ selectedLine }) {
+interface SubwayMapProps {
+  selectedLine: string;
+}
+
+export default function SubwayMap({ selectedLine }: SubwayMapProps) {
   const [scale, setScale] = useState(1);
   const pinchStart = useRef<{ distance: number; scale: number } | null>(null);
   const [imgSize, setImgSize] = useState({ width: 1, height: 1 });
@@ -89,11 +93,11 @@ export default function SubwayMap({ selectedLine }) {
   };
 
   // 휠 확대/축소 (PC)
-  const onWheel = (e: React.WheelEvent) => {
-    if (e.ctrlKey || e.metaKey) return;
-    e.preventDefault();
-    setScale(s => Math.max(0.5, Math.min(3, s - e.deltaY * 0.001)));
-  };
+  // const onWheel = (e: React.WheelEvent) => {
+  //   if (e.ctrlKey || e.metaKey) return;
+  //   e.preventDefault();
+  //   setScale(s => Math.max(0.5, Math.min(3, s - e.deltaY * 0.001)));
+  // };
 
   // 실시간 열차 데이터
   const [trains, setTrains] = useState<{
@@ -102,49 +106,66 @@ export default function SubwayMap({ selectedLine }) {
     statnTnm: string;
     updnLine: string;
     directAt: string; // 추가!
+    trainSttus: string; // 추가
+    direction?: string; // 추가: 열차 방향
   }[]>([]);
 
-  // useEffect(() => {
-  //   if (!selectedLine) return;
-  //   const fetchTrains = async () => {
-  //     try {
-  //       // 호선명(1,2,3...)을 "1호선", "2호선" 등으로 변환
-  //       console.warn(selectedLine)
-  //       const lineName = `${selectedLine}호선`;
-  //       const url = `http://swopenapi.seoul.go.kr/api/subway/sample/xml/realtimePosition/0/5/${lineName}`;
-  //       //const url = `/1호선.xml`;
-  //       const res = await fetch(url);
-  //       const xmlText = await res.text();
-  //       // XML 파싱
-  //       const parser = new DOMParser();
-  //       const xml = parser.parseFromString(xmlText, "text/xml");
-  //       const rows = Array.from(xml.getElementsByTagName("row"));
-  //       const data = rows.map(row => ({
-  //         trainId: row.getElementsByTagName("trainNo")[0]?.textContent ?? "",
-  //         statnNm: row.getElementsByTagName("statnNm")[0]?.textContent ?? "",
-  //         statnTnm: row.getElementsByTagName("statnTnm")[0]?.textContent ?? "",
-  //         updnLine: row.getElementsByTagName("updnLine")[0]?.textContent ?? "",
-  //         directAt: row.getElementsByTagName("directAt")[0]?.textContent ?? "",
-  //         trainSttus : row.getElementsByTagName("trainSttus")[0]?.textContent ?? ""
-  //       }));
-  //       console.warn(data)
-  //       setTrains(data);
-  //     } catch (e) {
-  //       setTrains([]);
-  //     }
-  //   };
-  //   fetchTrains();
-  //   const interval = setInterval(fetchTrains, 10000);
-  //   return () => clearInterval(interval);
-  // }, [selectedLine]);
+  useEffect(() => {
+    if (!selectedLine) return;
+    const fetchTrains = async () => {
+      try {
+        // 호선명(1,2,3...)을 "1호선", "2호선" 등으로 변환
+        const lineName = `${selectedLine}호선`;
+        //const url = `http://swopenapi.seoul.go.kr/api/subway/sample/xml/realtimePosition/0/5/${lineName}`;
+        //const url = `/1호선.xml`;
+        const res = await fetch(`https://metro.jys5540.workers.dev/?line=${lineName}`);
+        const xmlText = await res.text();
+        // XML 파싱
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(xmlText, "text/xml");
+        const rows = Array.from(xml.getElementsByTagName("row"));
+        const data = rows.map(row => ({
+          trainId: row.getElementsByTagName("trainNo")[0]?.textContent ?? "",
+          statnNm: row.getElementsByTagName("statnNm")[0]?.textContent ?? "",
+          statnTnm: row.getElementsByTagName("statnTnm")[0]?.textContent ?? "",
+          updnLine: row.getElementsByTagName("updnLine")[0]?.textContent ?? "",
+          directAt: row.getElementsByTagName("directAt")[0]?.textContent ?? "",
+          trainSttus : row.getElementsByTagName("trainSttus")[0]?.textContent ?? ""
+        }));
+        // 고유 값 맵 만들기
+        const uniqueDataMap = new Map();
+
+        // Map에 항목 추가 및 중복 제거
+        data.forEach(item => {
+            // 중복 확인을 위한 키 조합
+            const key = `${item.trainId}-${item.statnNm}`;
+            
+            // 중복되지 않는 경우에만 추가
+            if (!uniqueDataMap.has(key)) {
+                uniqueDataMap.set(key, item);
+            }
+        });
+
+        // 중복 제거된 데이터 배열 생성
+        const uniqueData = Array.from(uniqueDataMap.values());
+        console.warn(uniqueData)
+        setTrains(uniqueData);
+      } catch (e) {
+        setTrains([]);
+      }
+    };
+    fetchTrains();
+    const interval = setInterval(fetchTrains, 5000);
+    return () => clearInterval(interval);
+  }, [selectedLine]);
   
   // 1. stationCoords state 선언
-  const [stationCoords, setStationCoords] = useState<{ name: string; x: number; y: number }[]>([]);
+  const [stationCoords, setStationCoords] = useState<{ name: string; x: number; y: number; trainSttus: string; updnLine : string; direction?:string}[]>([]);
 
   // 2. 1호선일 때만 JSON에서 좌표 불러오기
   useEffect(() => {
     if (selectedLine === "1") {
-      fetch("/line1_all_station_coords_updated.json")
+      fetch("/realtime-metro/line1_all_station_coords_updated.json")
         .then(res => res.json())
         .then(setStationCoords);
     } else {
@@ -171,7 +192,7 @@ export default function SubwayMap({ selectedLine }) {
         position: "relative",
         background: "#fafbfc"
       }}
-      onWheel={onWheel}
+      //onWheel={onWheel}
       onTouchStart={onTouchStart}
       onTouchMove={onTouchMove}
       onTouchEnd={onTouchEnd}
@@ -223,8 +244,25 @@ export default function SubwayMap({ selectedLine }) {
         />
         {/* 실시간 열차 데이터에 따른 역-열차 연결선 및 열차 아이콘 표시 */}
         {trains.map(train => {
-          const coord = stationCoords.find(station => station.name === train.statnNm);
-          if (!coord) return null;
+          const coords = stationCoords.filter(station => {
+            if (station.name === "구로") {
+              return (
+                station.name === train.statnNm
+              );
+            } else {
+              return (
+                station.name === train.statnNm &&
+                station.trainSttus === train.trainSttus &&
+                station.updnLine === train.updnLine
+              );
+            }
+          });
+
+          // check if coords array is empty
+          if (coords.length === 0) return null;
+
+          // get the first matched coordinate
+          const coord = coords[0];
 
           const x = coord.x * scale;
           const baseY = coord.y * scale;
@@ -232,18 +270,18 @@ export default function SubwayMap({ selectedLine }) {
           let offsetY = 0;
 
           // 좌우로 벌릴 역 목록
-          const horizontalStations = ["시청", "서울", "남영", "용산", "도봉산", "도봉", "방학", "창동", "녹천", "월계", "광운대", "신이문", "외대앞", "석계"];
+          const horizontalStations = ["시청", "서울", "남영", "용산", "도봉산", "도봉", "방학", "창동", "녹천", "월계", "광운대", "석계", "가산디지털단지", "독산", "관악", "안양", "명학", "금정", "동암", "간석", "주안", "도화"];
 
           // 상하/좌우 분기
           if (selectedLine !== "2") {
             if (horizontalStations.includes(train.statnNm)) {
               // 좌우로 15px 벌림
-              if (train.updnLine === "0") offsetX = -20;
-              else if (train.updnLine === "1") offsetX = 20;
+              if (train.updnLine === "0") offsetX = -10;
+              else if (train.updnLine === "1") offsetX = 13;
             } else {
               // 기존처럼 위아래로 15px 벌림
-              if (train.updnLine === "0") offsetY = -10;
-              else if (train.updnLine === "1") offsetY = 15;
+              if (train.updnLine === "0") offsetY = -5;
+              else if (train.updnLine === "1") offsetY =  10;
             }
           }
 
@@ -277,11 +315,10 @@ export default function SubwayMap({ selectedLine }) {
 
           const isExpress = train.directAt === "1" || train.directAt === "7";
           const bgColor = "rgba(255,255,255,0.7)";
-
+          const uniqueKey = `${train.trainId}-${train.statnNm}`;
+          
           return (
-            <React.Fragment key={train.trainId}>
-              {/* 역-열차 연결선 제거됨 */}
-
+            <React.Fragment key={uniqueKey}>
               {/* 열차 아이콘 */}
               <div
                 style={{
@@ -305,7 +342,7 @@ export default function SubwayMap({ selectedLine }) {
                     height: 10,     // 기존 10 → 20 (2배)
                     background: bgColor,
                     borderRadius: "10px 10px 10px 10px / 16px 16px 16px 16px", // 2배
-                    border: isExpress ? "3px solid #e53935" : `2px solid ${fontColor}`, // 2배
+                    border: isExpress ? "1px solid #e53935" : `1px solid ${fontColor}`, // 2배
                     boxShadow: "0 2px 8px #0002", // 2배
                     position: "relative",
                     display: "flex",
@@ -316,7 +353,7 @@ export default function SubwayMap({ selectedLine }) {
                   {/* 어디행 + 상/하행 특수문자 */}
                   <span style={{
                     fontSize: 5, // 기존 5 → 10 (2배)
-                    color: fontColor,
+                    color: isExpress ? "#e53935" : fontColor,
                     fontWeight: 900,
                     whiteSpace: "nowrap",
                     textShadow: "0 2px 4px #fff", // 2배
