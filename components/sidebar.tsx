@@ -50,7 +50,7 @@ export default function Sidebar({ open, onClose, onSelectLine }: SidebarProps) {
         }}
       >
         <h3 style={{ margin: 0, fontSize: 22, fontWeight: 700, color: "#222" }}>
-          서울 지하철 노선
+          서울 지하철 노선!!!
         </h3>
         <button
           onClick={onClose}

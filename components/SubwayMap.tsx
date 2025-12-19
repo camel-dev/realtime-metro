@@ -207,7 +207,7 @@ export default function SubwayMap({ selectedLine }: SubwayMapProps) {
         <img
           ref={imgRef}
           src={lineImages[selectedLine]}
-          alt={`${selectedLine}호선 노선도`}
+          alt={`${selectedLine}호선 노선도!`}
           style={{
             width: "100%",
             height: "100%",
