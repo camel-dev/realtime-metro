@@ -1,5 +1,6 @@
 {
-  "/page": "/",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
   "/eta/page": "/eta",
-  "/_not-found/page": "/_not-found"
+  "/page": "/"
 }

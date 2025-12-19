@@ -1,6 +1,7 @@
 {
   "version": 3,
   "pages404": true,
+  "appType": "app",
   "caseSensitive": false,
   "basePath": "/realtime-metro",
   "redirects": [
@@ -9,6 +10,7 @@
       "destination": "/realtime-metro",
       "basePath": false,
       "internal": true,
+      "priority": true,
       "statusCode": 308,
       "regex": "^/realtime-metro/$"
     },
@@ -16,11 +18,23 @@
       "source": "/:path+/",
       "destination": "/:path+",
       "internal": true,
+      "priority": true,
       "statusCode": 308,
       "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
     }
   ],
   "headers": [],
+  "rewrites": {
+    "beforeFiles": [
+      {
+        "source": "/realtime-metro//_next/:path+",
+        "destination": "/realtime-metro/_next/:path+",
+        "regex": "^/realtime-metro//_next(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))(?:/)?$"
+      }
+    ],
+    "afterFiles": [],
+    "fallback": []
+  },
   "dynamicRoutes": [],
   "staticRoutes": [
     {
@@ -28,6 +42,12 @@
       "regex": "^/(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
     },
     {
       "page": "/_not-found",
@@ -44,30 +64,20 @@
   ],
   "dataRoutes": [],
   "rsc": {
-    "header": "RSC",
-    "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
-    "prefetchHeader": "Next-Router-Prefetch",
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
     "didPostponeHeader": "x-nextjs-postponed",
     "contentTypeHeader": "text/x-component",
     "suffix": ".rsc",
-    "prefetchSuffix": ".prefetch.rsc",
-    "prefetchSegmentHeader": "Next-Router-Segment-Prefetch",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
     "prefetchSegmentSuffix": ".segment.rsc",
-    "prefetchSegmentDirSuffix": ".segments"
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
   },
   "rewriteHeaders": {
     "pathHeader": "x-nextjs-rewritten-path",
     "queryHeader": "x-nextjs-rewritten-query"
-  },
-  "rewrites": {
-    "beforeFiles": [
-      {
-        "source": "/realtime-metro//_next/:path+",
-        "destination": "/realtime-metro/_next/:path+",
-        "regex": "^/realtime-metro//_next(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))(?:/)?$"
-      }
-    ],
-    "afterFiles": [],
-    "fallback": []
   }
 }

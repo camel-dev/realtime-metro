@@ -1,11 +1,13 @@
-const CHUNK_PUBLIC_PATH = "server/app/_not-found/page.js";
-const runtime = require("../../chunks/ssr/[turbopack]_runtime.js");
-runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_a17f26a9._.js");
-runtime.loadChunk("server/chunks/ssr/[root-of-the-server]__50a7c09c._.js");
-runtime.loadChunk("server/chunks/ssr/app_layout_tsx_d2b9bf06._.js");
-runtime.loadChunk("server/chunks/ssr/_bff8b4fc._.js");
-runtime.loadChunk("server/chunks/ssr/node_modules_b04db032._.js");
-runtime.loadChunk("server/chunks/ssr/_60885e73._.js");
-runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/_not-found/page/actions.js [app-rsc] (server actions loader, ecmascript)", CHUNK_PUBLIC_PATH);
-runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/app/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_1 => \"[project]/app/not-found.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_2 => \"[project]/node_modules/next/dist/client/components/forbidden-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_3 => \"[project]/node_modules/next/dist/client/components/unauthorized-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_4 => \"[project]/app/not-found.tsx [app-rsc] (ecmascript, Next.js server component)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);
-module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/app/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_1 => \"[project]/app/not-found.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_2 => \"[project]/node_modules/next/dist/client/components/forbidden-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_3 => \"[project]/node_modules/next/dist/client/components/unauthorized-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_4 => \"[project]/app/not-found.tsx [app-rsc] (ecmascript, Next.js server component)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH).exports;
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/_c4e1edb5._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0c1ef9cf._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_264df7c0.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0ccfb5ea._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__655f8d11._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__709fb98b._.js")
+R.c("server/chunks/ssr/app_layout_tsx_565cb814._.js")
+R.c("server/chunks/ssr/app_not-found_tsx_ef35050a._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_2fffaa3a._.js")
+R.c("server/chunks/ssr/_next-internal_server_app__not-found_page_actions_554ec2bf.js")
+R.m(2603)
+module.exports=R.m(2603).exports

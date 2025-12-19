@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///D:/Study/realtime-metro/app/not-found.tsx"],"sourcesContent":["import Navigation from \"../components/navigation\";\r\n\r\nexport default function NotFound() {\r\n    return (\r\n            <div>\r\n                <h1>Not Found!</h1>\r\n            </div>\r\n        );\r\n}"],"names":[],"mappings":";;;;;AAEe,SAAS;IACpB,qBACQ,8OAAC;kBACG,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGpB","debugId":null}},
-    {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":["file:///D:/Study/realtime-metro/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-rsc'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,4HAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB","ignoreList":[0],"debugId":null}}]
-}

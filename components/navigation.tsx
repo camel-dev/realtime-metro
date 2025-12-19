@@ -8,7 +8,7 @@ export default function Navigation({ onSidebarToggle }:NavigationProps) {
     <nav style={{ padding: 16, background: "#fff", borderBottom: "1px solid #eee", display: "flex", alignItems: "center" }}>
       <button
         onClick={onSidebarToggle}
-        aria-label="노선 선택"
+        aria-label="노선 선택!"
         style={{
           background: "#0052A4",
           color: "#fff",
@@ -44,7 +44,7 @@ export default function Navigation({ onSidebarToggle }:NavigationProps) {
             <rect y="13" width="18" height="2.5" rx="1.2" fill="#fff"/>
           </svg>
         </span>
-        노선 선택
+        노선 선택!
       </button>
       {/* ...다른 네비게이션 요소들... */}
     </nav>
